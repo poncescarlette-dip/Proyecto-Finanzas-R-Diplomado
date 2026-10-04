@@ -1,5 +1,5 @@
 Proyecto-Finanzas-R-Diplomado
-README — Entrega 01
+README — Entrega 02
 
 1. Descripción de la solución
 Esta entrega incluye la definición del problema financiero a resolver y la explicación inicial de cómo se abordará usando R. Se describen los actores afectados y el alcance básico del proyecto, considerando las etapas Collect data y Understand & clean data.
