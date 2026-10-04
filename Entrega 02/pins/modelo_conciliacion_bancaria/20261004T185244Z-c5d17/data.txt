@@ -1,0 +1,16 @@
+file: modelo_conciliacion_bancaria.rds
+file_size: 2862
+pin_hash: c5d1709324325789
+type: rds
+title: 'modelo_conciliacion_bancaria: a pinned list'
+description: A rpart classification modeling workflow
+tags: ~
+urls: ~
+created: 20261004T185244Z
+api_version: 1
+user:
+  required_pkgs:
+  - parsnip
+  - rpart
+  - workflows
+  renv_lock: ~
